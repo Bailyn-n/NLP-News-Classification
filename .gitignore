@@ -5,3 +5,6 @@ data/
 __pycache__/
 *.txt
 *.csv
+*.model
+*.model.*
+*.npy
